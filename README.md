@@ -13,35 +13,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20I'm%20Anna%20🧙‍♀️&animation=fadeIn&type=waving&color=gradient&height=100" />
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/annasehgal" target="_blank" rel="noopener">
-    <img src="https://cdn-icons-png.flaticon.com/48/174/174857.png" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/annasehgal" target="_blank" rel="noopener">
-    <img src="https://cdn-icons-png.flaticon.com/48/733/733579.png" alt="Twitter" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.to/annasehgal" target="_blank" rel="noopener">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/dev-to-2-569318.png" alt="Dev.to" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@annasehgal" target="_blank" rel="noopener">
-    <img src="https://cdn-icons-png.flaticon.com/48/5968/5968906.png" alt="Medium" width="40" />
-  </a>
+# Hi there, I'm Anna Sehgal 👋
+
+I'm a computer science student and passionate coder who loves AI, coffee, and solving real-world problems with technology.
+
+---
+
+## About Me
+
+- 🔭 Currently learning new AI and ML techniques
+- 🌱 Exploring full-stack web development and React
+- 💬 Ask me about coding, AI, or my favorite coffee recipes ☕
+- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- ⚡ Fun fact: I’m a self-proclaimed crochet wizard and nature lover!
+
+---
+
+## Skills & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
 ---
 
-```yaml
-👩‍💻 About Me:
-  - Name: Anna Sehgal
-  - Pronouns: She/Her
-  - Role: Computer Science Student & Caffeinated Debugger
-  - Passion: AI, Sustainability & Creative Coding
-  - Fun Fact: Crochet wizard who loves coffee ☕️ and nature 🌿
-  - Motto: "Solve problems, one bug at a time"
+## Find me on
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annasehgal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theannasehgal)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
