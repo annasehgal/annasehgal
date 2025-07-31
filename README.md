@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- HEADER -->
 <h1 align="center">
-  Hi 👋, I'm Anna Sehgal
+  Hi, I'm Anna Sehgal
 </h1>
 <p align="center">
   <i>Computer Science student | AI Enthusiast | Caffeinated Debugger | Nature Lover</i>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 - 🔭 I’m currently working on a lot of stuff!
 - 🌱 I’m learning about quantum computing, and backend development (with a little bit of frontend too)
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annasehgal&show_icons=true&hide_border=true&theme=radical" alt="My GitHub stats" />
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="mailto:annasehgal05@gmail.com" target="_blank">
