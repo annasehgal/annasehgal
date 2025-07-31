@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- SOCIAL LINKS -->
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/annasehgal" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-
+-->
 ---
 
 ##  About Me
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
