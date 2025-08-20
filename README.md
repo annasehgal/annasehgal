@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ##  About Me
 
-- I’m currently working on a lot of stuff!
-- I’m learning about quantum computing, and backend development (with a little bit of frontend too)
-- Ask me about anything and everything, I love learning!
+- I’m love creating things, and helping people through tech :D
+- I’m learning about quantum computing and machine learning
+- Ask me about anything and everything, I love learning, and I learn fast!
 - Fun fact: I’m a coffee-loving martian ☕!
 - I’ve lived in 4 countries and love traveling
 
