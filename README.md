@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Hi, I'm Anna Sehgal
 </h1>
 <p align="center">
-  <i>Computer Science student | AI Enthusiast | Caffeinated Debugger | Nature Lover | </i> `Anna.learn()`
+  <i>Computer Science student | AI Enthusiast | Caffeinated Debugger | Nature Lover | </i> ```Anna.learn()```
 </p>
 
 <!-- SOCIAL LINKS -->
