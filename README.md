@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ##  About Me
 
-- I’m love creating things, and helping people through tech :D
+- I love creating things and helping people through tech :D
 - I’m learning about quantum computing and machine learning
 - Ask me about anything and everything, I love learning, and I learn fast!
 - Fun fact: I’m a coffee-loving martian ☕!
