@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Hi, I'm Anna Sehgal
 </h1>
 <p align="center">
-  <i>Computer Science student | AI Enthusiast | Caffeinated Debugger | Nature Lover</i>
+  <i>Computer Science student | AI Enthusiast | Caffeinated Debugger | Nature Lover | Anna.learn()</i>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - Ask me about anything and everything, I love learning, and I learn fast!
 - Fun fact: I’m a coffee-loving martian ☕!
 - I’ve lived in 4 countries and love traveling
+- I don't give up easily on things I want to do :)
 
 ---
 
