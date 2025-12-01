@@ -1,3 +1,4 @@
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annasehgal&theme=radical)
 <!--
 ## Hi there 👋
 **annasehgal/annasehgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -76,7 +77,6 @@ Tools & Platforms
 <p align="center">
   <!-- doesnt work anymore -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=annasehgal&show_icons=true&hide_border=true&theme=radical" alt="My GitHub stats" /> -->
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=annasehgal&theme=react-dark)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
 </p>
 
