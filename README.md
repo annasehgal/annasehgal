@@ -68,7 +68,10 @@ Databases
 
 Tools & Platforms
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </p>
-
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
+</p>
 ---
 
 ## GitHub Stats
@@ -78,7 +81,7 @@ Tools & Platforms
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=annasehgal&show_icons=true&hide_border=true&theme=radical" alt="My GitHub stats" /> -->
   <!-- ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annasehgal&theme=radical) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annasehgal&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" /> -->
 </p>
 
 ---
