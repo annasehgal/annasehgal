@@ -71,9 +71,10 @@ Tools & Platforms
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
 </p>
+
 
 
 ---
