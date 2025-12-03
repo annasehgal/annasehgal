@@ -71,8 +71,11 @@ Tools & Platforms
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
+<p align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" /> -->
+  <!-- broken link fix -->
+  <img width="100%" src="https://metrics.lecoq.io/annasehgal?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&config.timezone=America%2FLos_Angeles" />
+
 </p>
 
 
