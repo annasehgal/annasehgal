@@ -71,10 +71,12 @@ Tools & Platforms
 
 ---
 
-<p align="left">
+<p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" /> -->
   <!-- broken link fix -->
-  <img width="100%" src="https://metrics.lecoq.io/annasehgal?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&config.timezone=America%2FLos_Angeles" />
+  <!-- <img width="100%" src="https://metrics.lecoq.io/annasehgal?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&config.timezone=America%2FLos_Angeles" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annasehgal&theme=radical" height="145" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annasehgal&theme=radical" height="145" />
 
 </p>
 
@@ -88,8 +90,9 @@ Tools & Platforms
   <!-- doesnt work anymore -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=annasehgal&show_icons=true&hide_border=true&theme=radical" alt="My GitHub stats" /> -->
   <!-- ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annasehgal&theme=radical) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annasehgal&theme=radical" alt="GitHub Stats" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annasehgal&theme=radical" alt="GitHub Stats" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSehgal&layout=compact&hide_border=true&theme=radical" alt="Top languages" /> -->
+  
 </p>
 
 ---
