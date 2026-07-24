@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Hi, I'm Anna Sehgal
 </h1>
 <p align="center">
- <i>Computer Science student | AI Enthusiast | Caffeinated Debugger | Nature Lover |</i> <code>Anna.learn()</code>
+ <i>Computer Science Student | Machine Learning | Software Engineering | AI
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -37,12 +37,10 @@ Here are some ideas to get you started:
 
 ##  About Me
 
-- I love creating things and helping people through tech :D
-- I’m learning about quantum computing and machine learning
-- Ask me about anything and everything, I love learning, and I learn fast!
-- Fun fact: I’m a coffee-loving martian ☕!
-- I’ve lived in 4 countries and love traveling
-- I don't give up easily on things I want to do :)
+- I'm a Computer Science student who enjoys creating technology that helps people and solves real-world problems.
+- I'm currently exploring machine learning, software engineering, and quantum computing through hands-on projects.
+- I enjoy challenging myself with new technologies and believe the best way to learn is by building.
+- My goal is to become a well-rounded engineer who creates practical and meaningful solutions.
 
 ---
 
