@@ -1,4 +1,4 @@
-name: Update Recent Activity
+name: Update README
 
 on:
   schedule:
@@ -9,14 +9,11 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
-
+    name: Update this repo's README with recent activity
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Update recent GitHub activity
-        uses: Readme-Workflows/recent-activity@v2.4.1
+      - uses: actions/checkout@v4
+      - uses: BrandgrandRealMe/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
