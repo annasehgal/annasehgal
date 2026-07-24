@@ -8,7 +8,6 @@ settings:
     timezone: "America/Los_Angeles"
 
   disabled_events:
-    - push
     - create_repo
     - fork
     - star
