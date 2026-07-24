@@ -89,11 +89,8 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Pushed to [annasehgal/annasehgal](undefined)
-2. Pushed to [annasehgal/annasehgal](undefined)
-3. Pushed to [annasehgal/annasehgal](undefined)
-4. Pushed to [annasehgal/annasehgal](undefined)
-5. Pushed to [annasehgal/annasehgal](undefined)
+1. Closed [annasehgal/annasehgal#3](https://github.com/annasehgal/annasehgal/issues/3)
+2. Closed [annasehgal/annasehgal#2](https://github.com/annasehgal/annasehgal/issues/2)
 <!-- ACTIVITY:END -->
 ---
 
