@@ -88,17 +88,8 @@ Tools & Platforms
 
 ## Recent GitHub Activity
 
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [annasehgal/annasehgal](https://github.com/annasehgal/annasehgal)<br>
-2. ⬆️ Pushed undefined commit(s) to [annasehgal/annasehgal](https://github.com/annasehgal/annasehgal)<br>
-3. ⬆️ Pushed undefined commit(s) to [annasehgal/annasehgal](https://github.com/annasehgal/annasehgal)<br>
-4. ⬆️ Pushed undefined commit(s) to [annasehgal/annasehgal](https://github.com/annasehgal/annasehgal)<br>
-5. ⬆️ Pushed undefined commit(s) to [annasehgal/annasehgal](https://github.com/annasehgal/annasehgal)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 24th, 2026, 3:33:14 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
