@@ -2,10 +2,13 @@ settings:
   username: annasehgal
   commit_msg: "chore: update recent GitHub activity"
   max_lines: 5
-  readme_file: README.md
+  readme_file: "./README.md"
+
   date:
-    timezone: America/Los_Angeles
+    timezone: "America/Los_Angeles"
+
   disabled_events:
-    - PushEvent
-    - CreateEvent
-    - DeleteEvent
+    - push
+    - create_repo
+    - fork
+    - star
