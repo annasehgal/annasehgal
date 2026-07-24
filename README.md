@@ -78,6 +78,13 @@ Tools & Platforms
 
 </p>
 
+---
+
+## Featured Projects
+
+- **CircleStrategy** - Full-stack community learning platform built with React, Django REST, PostgreSQL, Docker, and Google Cloud.
+- **Census Income Classification** - Machine learning capstone comparing logistic regression and neural networks for income prediction.
+- **QAOA Implementation** - Quantum Approximate Optimization Algorithm for the Max-Cut problem.
 
 
 ---
