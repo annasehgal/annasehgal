@@ -23,7 +23,6 @@ jobs:
           max_items: "5"
           event_templates: |
             {
-              "push": "{{index}}. Pushed to [{{repo}}]({{payload.compare}})",
               "pr_opened": "{{index}}. Opened PR [{{repo}}#{{payload.pull_request.number}}]({{payload.pull_request.html_url}})",
               "pr_merged": "{{index}}. Merged PR [{{repo}}#{{payload.pull_request.number}}]({{payload.pull_request.html_url}})",
               "issues_opened": "{{index}}. Opened issue [{{repo}}#{{payload.issue.number}}]({{payload.issue.html_url}})",
