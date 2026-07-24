@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Hi, I'm Anna Sehgal
 </h1>
 <p align="center">
- <i>Computer Science Student | Machine Learning | Software Engineering | AI
+ <i>Computer Science Student | Machine Learning | Software Engineering | AI</i>
 </p>
 
 <!-- SOCIAL LINKS -->
