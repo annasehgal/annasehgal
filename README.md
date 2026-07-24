@@ -86,6 +86,10 @@ Tools & Platforms
 - **Census Income Classification** - Machine learning capstone comparing logistic regression and neural networks for income prediction.
 - **QAOA Implementation** - Quantum Approximate Optimization Algorithm for the Max-Cut problem.
 
+## Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
