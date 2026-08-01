@@ -40,7 +40,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md && git diff --cached --quiet || git commit -m "chore: update activity"
       
-      - uses: ad-m/github-push-action@v0.6.0
+      - uses: ad-m/github-push-action@v1.3.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
