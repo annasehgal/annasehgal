@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Opened issue [annasehgal/portfolio#2](https://github.com/annasehgal/portfolio/issues/2)
-2. Opened issue [annasehgal/portfolio#1](https://github.com/annasehgal/portfolio/issues/1)
-3. Closed [annasehgal/pagerank-project#5](https://github.com/annasehgal/pagerank-project/issues/5)
-4. Opened issue [annasehgal/final-parallel-project#1](https://github.com/annasehgal/final-parallel-project/issues/1)
-5. Closed [annasehgal/annasehgal#3](https://github.com/annasehgal/annasehgal/issues/3)
+1. Closed [annasehgal/algorithm-practice#3](https://github.com/annasehgal/algorithm-practice/issues/3)
+2. Opened issue [annasehgal/portfolio#2](https://github.com/annasehgal/portfolio/issues/2)
+3. Opened issue [annasehgal/portfolio#1](https://github.com/annasehgal/portfolio/issues/1)
+4. Closed [annasehgal/pagerank-project#5](https://github.com/annasehgal/pagerank-project/issues/5)
+5. Opened issue [annasehgal/final-parallel-project#1](https://github.com/annasehgal/final-parallel-project/issues/1)
 <!-- ACTIVITY:END -->
 ---
 
