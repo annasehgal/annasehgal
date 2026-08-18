@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Opened issue [annasehgal/algorithm-practice#4](https://github.com/annasehgal/algorithm-practice/issues/4)
-2. Closed [annasehgal/algorithm-practice#3](https://github.com/annasehgal/algorithm-practice/issues/3)
-3. Opened issue [annasehgal/portfolio#2](https://github.com/annasehgal/portfolio/issues/2)
-4. Opened issue [annasehgal/portfolio#1](https://github.com/annasehgal/portfolio/issues/1)
-5. Closed [annasehgal/pagerank-project#5](https://github.com/annasehgal/pagerank-project/issues/5)
+1. Merged PR [annasehgal/discord-reminder-bot#4](undefined)
+2. Opened PR [annasehgal/discord-reminder-bot#4](undefined)
+3. Merged PR [annasehgal/discord-reminder-bot#3](undefined)
+4. Opened PR [annasehgal/discord-reminder-bot#3](undefined)
+5. Merged PR [annasehgal/discord-reminder-bot#2](undefined)
 <!-- ACTIVITY:END -->
 ---
 
