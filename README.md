@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Merged PR [annasehgal/discord-reminder-bot#4](undefined)
-2. Opened PR [annasehgal/discord-reminder-bot#4](undefined)
-3. Merged PR [annasehgal/discord-reminder-bot#3](undefined)
-4. Opened PR [annasehgal/discord-reminder-bot#3](undefined)
-5. Merged PR [annasehgal/discord-reminder-bot#2](undefined)
+1. Opened issue [annasehgal/discord-reminder-bot#5](https://github.com/annasehgal/discord-reminder-bot/issues/5)
+2. Merged PR [annasehgal/discord-reminder-bot#4](undefined)
+3. Opened PR [annasehgal/discord-reminder-bot#4](undefined)
+4. Merged PR [annasehgal/discord-reminder-bot#3](undefined)
+5. Opened PR [annasehgal/discord-reminder-bot#3](undefined)
 <!-- ACTIVITY:END -->
 ---
 
