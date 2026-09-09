@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Merged PR [annasehgal/discord-reminder-bot#16](undefined)
-2. Opened PR [annasehgal/discord-reminder-bot#16](undefined)
-3. Closed [annasehgal/discord-reminder-bot#13](https://github.com/annasehgal/discord-reminder-bot/issues/13)
-4. Merged PR [annasehgal/discord-reminder-bot#15](undefined)
-5. Opened PR [annasehgal/discord-reminder-bot#15](undefined)
+1. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#11](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/11)
+2. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#10](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/10)
+3. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#9](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/9)
+4. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#8](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/8)
+5. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#6](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/6)
 <!-- ACTIVITY:END -->
 ---
 
