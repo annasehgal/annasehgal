@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#11](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/11)
-2. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#10](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/10)
-3. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#9](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/9)
-4. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#8](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/8)
-5. Opened issue [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#6](https://github.com/Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine/issues/6)
+1. Closed [ChicoState/betterticket#1](https://github.com/ChicoState/betterticket/issues/1)
+2. Merged PR [ChicoState/betterticket#4](undefined)
+3. Opened issue [ChicoState/betterticket#8](https://github.com/ChicoState/betterticket/issues/8)
+4. Opened issue [ChicoState/betterticket#7](https://github.com/ChicoState/betterticket/issues/7)
+5. Opened issue [ChicoState/betterticket#6](https://github.com/ChicoState/betterticket/issues/6)
 <!-- ACTIVITY:END -->
 ---
 
