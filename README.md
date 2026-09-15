@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Closed [ChicoState/betterticket#3](https://github.com/ChicoState/betterticket/issues/3)
-2. Closed [ChicoState/betterticket#2](https://github.com/ChicoState/betterticket/issues/2)
-3. Closed [ChicoState/betterticket#1](https://github.com/ChicoState/betterticket/issues/1)
-4. Merged PR [ChicoState/betterticket#4](undefined)
-5. Opened issue [ChicoState/betterticket#8](https://github.com/ChicoState/betterticket/issues/8)
+1. Merged PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#20](undefined)
+2. Opened PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#20](undefined)
+3. Merged PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#19](undefined)
+4. Opened PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#19](undefined)
+5. Merged PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#18](undefined)
 <!-- ACTIVITY:END -->
 ---
 
