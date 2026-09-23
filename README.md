@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Merged PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#22](undefined)
-2. Opened PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#22](undefined)
-3. Merged PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#21](undefined)
-4. Opened PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#21](undefined)
-5. Merged PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#20](undefined)
+1. Opened issue [annasehgal/adoptare#1](https://github.com/annasehgal/adoptare/issues/1)
+2. Merged PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#22](undefined)
+3. Opened PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#22](undefined)
+4. Merged PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#21](undefined)
+5. Opened PR [Break-Through-Tech/State-Street-1C-kickstarter-crowdfunding-recommendation-engine#21](undefined)
 <!-- ACTIVITY:END -->
 ---
 
