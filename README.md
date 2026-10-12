@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#24](undefined)
-2. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#24](undefined)
-3. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#23](undefined)
-4. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#23](undefined)
-5. Closed [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#8](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/8)
+1. Closed [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#7](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/7)
+2. Closed [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#26](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/26)
+3. Opened issue [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#31](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/31)
+4. Opened issue [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#30](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/30)
+5. Opened issue [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#29](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/29)
 <!-- ACTIVITY:END -->
 ---
 
