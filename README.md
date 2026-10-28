@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Opened PR [sbsiewertcsu/ELP-simulation#3](undefined)
-2. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#41](undefined)
-3. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#41](undefined)
-4. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#40](undefined)
-5. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#40](undefined)
+1. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#46](undefined)
+2. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#46](undefined)
+3. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#45](undefined)
+4. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#45](undefined)
+5. Closed [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#30](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/30)
 <!-- ACTIVITY:END -->
 ---
 
