@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Opened issue [annasehgal/adoptare#5](https://github.com/annasehgal/adoptare/issues/5)
-2. Opened issue [annasehgal/adoptare#4](https://github.com/annasehgal/adoptare/issues/4)
-3. Opened issue [annasehgal/adoptare#3](https://github.com/annasehgal/adoptare/issues/3)
-4. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#46](undefined)
-5. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#46](undefined)
+1. Closed [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#31](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/31)
+2. Opened issue [sbsiewertcsu/ELP-simulation#4](https://github.com/sbsiewertcsu/ELP-simulation/issues/4)
+3. Opened issue [annasehgal/adoptare#5](https://github.com/annasehgal/adoptare/issues/5)
+4. Opened issue [annasehgal/adoptare#4](https://github.com/annasehgal/adoptare/issues/4)
+5. Opened issue [annasehgal/adoptare#3](https://github.com/annasehgal/adoptare/issues/3)
 <!-- ACTIVITY:END -->
 ---
 
