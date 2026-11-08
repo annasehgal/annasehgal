@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Closed [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#31](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/31)
-2. Opened issue [sbsiewertcsu/ELP-simulation#4](https://github.com/sbsiewertcsu/ELP-simulation/issues/4)
-3. Opened issue [annasehgal/adoptare#5](https://github.com/annasehgal/adoptare/issues/5)
-4. Opened issue [annasehgal/adoptare#4](https://github.com/annasehgal/adoptare/issues/4)
-5. Opened issue [annasehgal/adoptare#3](https://github.com/annasehgal/adoptare/issues/3)
+1. Opened issue [ChicoState/betterticket#84](https://github.com/ChicoState/betterticket/issues/84)
+2. Opened issue [ChicoState/betterticket#83](https://github.com/ChicoState/betterticket/issues/83)
+3. Opened issue [ChicoState/betterticket#82](https://github.com/ChicoState/betterticket/issues/82)
+4. Opened issue [ChicoState/betterticket#81](https://github.com/ChicoState/betterticket/issues/81)
+5. Opened issue [ChicoState/betterticket#80](https://github.com/ChicoState/betterticket/issues/80)
 <!-- ACTIVITY:END -->
 ---
 
