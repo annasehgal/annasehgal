@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Opened issue [ChicoState/betterticket#84](https://github.com/ChicoState/betterticket/issues/84)
-2. Opened issue [ChicoState/betterticket#83](https://github.com/ChicoState/betterticket/issues/83)
-3. Opened issue [ChicoState/betterticket#82](https://github.com/ChicoState/betterticket/issues/82)
-4. Opened issue [ChicoState/betterticket#81](https://github.com/ChicoState/betterticket/issues/81)
-5. Opened issue [ChicoState/betterticket#80](https://github.com/ChicoState/betterticket/issues/80)
+1. Opened issue [ChicoState/betterticket#85](https://github.com/ChicoState/betterticket/issues/85)
+2. Opened issue [ChicoState/betterticket#84](https://github.com/ChicoState/betterticket/issues/84)
+3. Opened issue [ChicoState/betterticket#83](https://github.com/ChicoState/betterticket/issues/83)
+4. Opened issue [ChicoState/betterticket#82](https://github.com/ChicoState/betterticket/issues/82)
+5. Opened issue [ChicoState/betterticket#81](https://github.com/ChicoState/betterticket/issues/81)
 <!-- ACTIVITY:END -->
 ---
 
