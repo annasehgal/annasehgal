@@ -89,11 +89,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Opened issue [ChicoState/betterticket#85](https://github.com/ChicoState/betterticket/issues/85)
-2. Opened issue [ChicoState/betterticket#84](https://github.com/ChicoState/betterticket/issues/84)
-3. Opened issue [ChicoState/betterticket#83](https://github.com/ChicoState/betterticket/issues/83)
-4. Opened issue [ChicoState/betterticket#82](https://github.com/ChicoState/betterticket/issues/82)
-5. Opened issue [ChicoState/betterticket#81](https://github.com/ChicoState/betterticket/issues/81)
+1. Opened issue [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#54](https://github.com/Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine/issues/54)
+2. Opened issue [ChicoState/betterticket#85](https://github.com/ChicoState/betterticket/issues/85)
+3. Opened issue [ChicoState/betterticket#84](https://github.com/ChicoState/betterticket/issues/84)
+4. Opened issue [ChicoState/betterticket#83](https://github.com/ChicoState/betterticket/issues/83)
+5. Opened issue [ChicoState/betterticket#82](https://github.com/ChicoState/betterticket/issues/82)
 <!-- ACTIVITY:END -->
 ---
 
