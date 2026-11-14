@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - I'm currently exploring machine learning, software engineering, and quantum computing through hands-on projects.
 - I enjoy challenging myself with new technologies and believe the best way to learn is by building.
 - My goal is to become a well-rounded engineer who creates practical and meaningful solutions.
+- Recently I have been exploring machine learning, asphalt pavement simulation, and working on non-profit called (adoptare)[https://adoptare.store/] as technical intern.
 
 ---
 
@@ -85,6 +86,7 @@ Tools & Platforms
 - **CircleStrategy** - Full-stack community learning platform built with React, Django REST, PostgreSQL, Docker, and Google Cloud.
 - **Census Income Classification** - Machine learning capstone comparing logistic regression and neural networks for income prediction.
 - **QAOA Implementation** - Quantum Approximate Optimization Algorithm for the Max-Cut problem.
+- **Adoptare** - Working on improving the current non-profit website focusing on usability, user experience, and improving overall system security.
 
 ## Recent GitHub Activity
 
