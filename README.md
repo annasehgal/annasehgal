@@ -91,11 +91,11 @@ Tools & Platforms
 ## Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-1. Closed [annasehgal/adoptare#7](https://github.com/annasehgal/adoptare/issues/7)
-2. Closed [annasehgal/the-mappers#8](https://github.com/annasehgal/the-mappers/issues/8)
-3. Opened issue [annasehgal/the-mappers#8](https://github.com/annasehgal/the-mappers/issues/8)
-4. Opened issue [annasehgal/adoptare#7](https://github.com/annasehgal/adoptare/issues/7)
-5. Closed [annasehgal/adoptare#5](https://github.com/annasehgal/adoptare/issues/5)
+1. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#62](undefined)
+2. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#62](undefined)
+3. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#61](undefined)
+4. Opened PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#61](undefined)
+5. Merged PR [Break-Through-Tech/Global-Financial-Firm-1C-kickstarter-crowdfunding-recommendation-engine#60](undefined)
 <!-- ACTIVITY:END -->
 ---
 
